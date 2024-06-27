@@ -68,3 +68,21 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Overview
+This is a React.js application that displays a chart using the Recharts library. The chart supports timeframe breakdown, data filtering, and export as a PNG image. Data is fetched from a JSON file (data.json) and displayed interactively.
+
+Features
+Display a line chart with Recharts.
+Implement timeframe breakdown (daily, weekly, monthly).
+Filter data by minimum and maximum values.
+Export the chart as a PNG image.
+Ensure TypeScript type safety and accessibility.
+Prerequisites
+Node.js and npm installed on your machine.
+Installation
+Clone the repository:
+
+git clone <https://github.com/chandrasekhar2145/Chart-App.git>
+cd react-charting-app
